@@ -14,4 +14,4 @@ I've finally found an investor for my dream Surf n' Shake shop. W. Avy is very c
 
 
 ## summary
-high-level summary of results + two queries
+Overall, it appears as though Oahu will have overall consistent temperatures to sustain a Surf n' Shake shop. Mean temperatures will be in the 70s, perfect for ice cream and time on the beach all year. While it will get a little colder in December, the max temperature will in the 80s throughout the year and will be perfect to pair ice cream after a tiring surfing session. 
