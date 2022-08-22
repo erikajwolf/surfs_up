@@ -5,7 +5,7 @@ I've finally found an investor for my dream Surf n' Shake shop. W. Avy is very c
 ## Results
 ### June & December
 **-The June and December mean temperatures aren't too far off: 74 degrees in June, 71 degrees in December**
-
+![PyBer_fare_summary](/Pyber_Analysis/Analysis/PyBer_fare_summary.png)
 
 **-The June and December max temperatures are also very similar: 85 degrees in June, 83 degrees in December**
 
